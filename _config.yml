@@ -1,7 +1,11 @@
 #Jekyll configuration
 name: Scientific communication materials
 title: Scientific communication materials
-description: Resources to help students publishing in JEI
+# description: Resources to help students publishing in JEI
 url: "https://juanramonmtz.github.io"
 markdown: GFM
 theme: jekyll-theme-cayman
+webrick:
+  headers:
+    My-Header: My-Value
+    My-Other-Header: My-Other-Value
