@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Technical vs biological replicates
 permalink: technical-vs-biological-replicates
 ---
