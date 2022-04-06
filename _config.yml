@@ -5,7 +5,45 @@ title: Scientific communication materials
 url: "https://juanramonmtz.github.io"
 markdown: GFM
 theme: jekyll-theme-cayman
-webrick:
-  headers:
-    My-Header: My-Value
-    My-Other-Header: My-Other-Value
+author: Juan Martinez-Francois
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+#  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://juanramonmtz.github.io"
+
+  # --- Footer social media links --- #
+
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+# email: "someone@example.com"
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# facebook: deanattali
+# github: daattali
+# twitter: daattali
+# patreon: DeanAttali
+# youtube: c/daattali
+#  medium: yourname
+#  reddit: yourname
+#  linkedin: daattali
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
+#  ORCID: your ORCID ID
+  google-scholar: https://scholar.google.com/citations?user=7VDWHP4AAAAJ&hl=en
+#  discord: invite/invite_code or users/userid 
+#  kaggle: yourname
