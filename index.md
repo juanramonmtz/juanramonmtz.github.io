@@ -1,3 +1,7 @@
+---
+title: This is the TITLE field
+layout: default
+---
 
 ## This is a header
 
