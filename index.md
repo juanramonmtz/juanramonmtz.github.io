@@ -6,6 +6,8 @@ The materials in this site are intended to help students improve their manuscrip
 
 - #### [Bar graph best practices](https://juanramonmtz.github.io/bar-graphs)
 
+- #### [Add error bars to bar graphs](https://juanramonmtz.github.io/bar-graphs-add-error)
+
 - #### [Technical versus biological replicates](https://juanramonmtz.github.io/technical-vs-biological-replicates)
 
 ---
