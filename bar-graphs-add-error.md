@@ -10,20 +10,22 @@ permalink: bar-graphs-add-error
 
 Imagine you do an experiment with two groups of plants. You measure how much plants grow after a certain period of time without treatment (control) and with treatment. There are four plants for the control group and four plants for the treatment group. 
 
-Your data look like this:
+Your data look like this (there are no error bars):
 
 <figure>
     <img src="assets/bar-errors-1.png"
+         width="600"
          alt="Bar graph data">
 </figure>
+
 ##### To add the standard deviation as error bars to your graph follow these steps:
 
 1. Click on the chart to reveal the "Chart Elements" button
 <figure>
     <img src="assets/bar-errors-2.png"
-         width="350"
          alt="Chart elements button">
 </figure>
+
 
 
 2. Click the "Chart Elements" button and navigate to "Error Bars" > "More Options..."
@@ -47,6 +49,15 @@ The "Format Error Bars" menu will open on the right-hand side of the Excel windo
 </figure>
 
 You are done! The error bars are now in your graph, and each bar has its corresponding error value.
+
+<figure>
+    <img src="assets/bar-errors-6.png"
+         alt="Final result">
+</figure>
+
+Note that each bar has its own error value. In other words, each category (control or treatment) has a different size of error bar corresponding to each category's standard deviation.
+
+Excel version used: Microsoft 365 (Version 2105)
 
 ---
 ## Additional resources
