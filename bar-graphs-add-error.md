@@ -62,6 +62,7 @@ Excel version used: Microsoft 365 (Version 2105)
 ---
 ## Additional resources
 - [Microsoft Support: Add, change, or remove error bars in a chart](https://support.microsoft.com/en-us/office/add-change-or-remove-error-bars-in-a-chart-e6d12c87-8533-4cd6-a3f5-864049a145f0)
+- [How To Add Error Bars To Graphs In Microsoft Excel](https://toptipbio.com/error-bars-graphs-excel/)
 
 
 ---
